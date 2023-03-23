@@ -1,1 +1,3 @@
 # SpringbootLoginThymeleafSecurity
+
+create database springlogin;
